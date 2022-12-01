@@ -1,0 +1,8 @@
+{
+    "name": "@iteam/react-native-template",
+    "version": "1.0.0",
+    "description": "React Native Template",
+    "repository": "git@github.com:Iteam1337/template-react-native.git",
+    "author": "Izabella Larsson <izabella.larsson@iteam.se>",
+    "license": "Apache License, Version 2.0"
+  }
